@@ -44,7 +44,11 @@ motto: "Always exploring new tech, one project at a time"
 🌱 Currently learning SQL, Data Visualization with Tableau, and Data Structures.
 💻 Building expertise in data analytics and cloud computing.
 🔭 Working on projects that enhance problem-solving skills in C++ and C#.
-📊 GitHub Stats
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbdurRafayPOG&show_icons=true&theme=monokai&count_private=true&include_all_commits=true" alt="GitHub Stats" width="350"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurRafayPOG&theme=monokai&hide_border=false" alt="GitHub Streak" width="350"/> </div> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdurRafayPOG&theme=monokai" alt="GitHub Profile Summary" width="350"/> </div>
 
 ---
