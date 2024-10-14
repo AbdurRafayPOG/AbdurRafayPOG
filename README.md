@@ -10,10 +10,11 @@
   <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="400" alt="Coding GIF" />
 </p>
 
-<!-- Animated Typing Effect for a Professional Tagline -->
+<!-- Animated Coding GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFEC&center=true&vCenter=true&width=600&lines=IT+Student+|+IT+Enthusiast;Data+Analytics+Learner+|+Always+Learning;Tech+and+Problem-Solving+Enthusiast" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="800" height="600" alt="Animated Coding GIF" />
 </p>
+
 
 ---
 
