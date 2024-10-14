@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:703BE7,100:703BE7&height=160&section=header&text=Abdur%20Rafay%20Imran&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IT%20Undergraduate%20|%20Aspiring%20Data%20Scientist%20|%20Seeking%20Internship%20Opportunities&descAlignY=60&descAlign=50" alt="Header" />
 </p>
 
+<!-- Animated Coding GIFs -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" width="400" alt="Coding GIF" />
+  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="400" alt="Coding GIF" />
+</p>
 
 <!-- Animated Typing Effect for a Professional Tagline -->
 <p align="center">
