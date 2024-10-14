@@ -1,7 +1,8 @@
 <!-- Header Banner with Gradient Colors and Stylish Font -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:703BE7,100:703BE7&height=160&section=header&text=Abdur%20Rafay%20Imran&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IT%20Student%20at%20SSUET%20|%20Aspiring%20Data%20Scientist%20|%20Enthusiast%20in%20Computer%20Networks%2C%20Data%20Analysis%20and%20Data%20Science%20|%20Seeking%20Internship%20Opportunities&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:703BE7,100:703BE7&height=160&section=header&text=Abdur%20Rafay%20Imran&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IT%20Undergraduate%20|%20Aspiring%20Data%20Scientist%20|%20Seeking%20Internship%20Opportunities&descAlignY=60&descAlign=50" alt="Header" />
 </p>
+
 
 <!-- Animated Coding GIFs -->
 <p align="center">
