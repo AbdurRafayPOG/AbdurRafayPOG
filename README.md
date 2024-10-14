@@ -31,7 +31,7 @@ motto: "Always exploring new tech, one project at a time"
 
 ## 🚀 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=,cs,bash,r,linux,cpp,excel,sql,dotnet,&perline=4" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=,cs,bash,r,linux,cpp,excel,sql,dotnet,&perline=3" alt="Tech Stack" />
 </p>
 
 ---
