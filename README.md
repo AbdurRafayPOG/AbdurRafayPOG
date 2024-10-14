@@ -25,6 +25,7 @@ education_status: Currently pursuing BS in IT
 job_status: Seeking internship opportunities in IT & Data Analytics
 tech_focus: IT | Data Analytics | Programming
 tools: C++, C#, SQL, R, Ubuntu, Excel
+email: abdurrafayimran404@gmail.com
 motto: "Always exploring new tech, one project at a time"
 ```
 
