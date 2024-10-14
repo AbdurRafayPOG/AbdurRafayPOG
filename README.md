@@ -5,7 +5,7 @@
 
 ---
 
-### 🧑‍💻 About Me:
+### 👨🏻‍💻 About Me:
 - I am currently pursuing a Bachelor of Science in Information Technology at Sir Syed University of Engineering and Technology (SSUET), and I'm in my 5th semester.
 - My goal is to apply my academic knowledge to real-world problems, gaining hands-on experience through internships and collaborative projects.
 - I am particularly interested in **Data Analytics**, **Software Development**, and **Networking**.
