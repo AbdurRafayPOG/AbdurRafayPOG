@@ -19,12 +19,12 @@
 ## 👨‍💻 About Me
 
 ```yaml
-  name: Abdur Rafay Imran
-  education_status: Currently pursuing BS in IT
-  job_status: Seeking internship opportunities in IT & Data Analytics
-  tech_focus: IT | Data Analytics | Programming
-  tools: C++, C#, SQL, R, Ubuntu, Excel
-  motto: "Always exploring new tech, one project at a time"
+name: Abdur Rafay Imran
+education_status: Currently pursuing BS in IT
+job_status: Seeking internship opportunities in IT & Data Analytics
+tech_focus: IT | Data Analytics | Programming
+tools: C++, C#, SQL, R, Ubuntu, Excel
+motto: "Always exploring new tech, one project at a time"
 🚀 Tech Stack & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,cs,bash,r,linux,excel,sql,dotnet&perline=6" alt="Tech Stack" /> </p>
 🌟 Featured Projects
