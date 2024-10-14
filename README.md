@@ -6,7 +6,7 @@
 <!-- Animated Coding GIFs -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" width="400" alt="Coding GIF" />
-  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="400" alt="Coding GIF" />
+  <img src="[https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="400" alt="Coding GIF](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F8b%2F35%2Ffe%2F8b35fef55fba1a201c9c7a11d3ec3d64.gif&tbnid=NzefxaVb3PPQWM&vet=12ahUKEwi6v7vGlY6JAxUfpycCHWw-Af8QxiAoAHoECAAQIg..i&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fanimation--832040099882468699%2F&docid=Gcs__WLwTpQLUM&w=800&h=600&itg=1&q=CS%20AND%20IT%20THEME%20gif%20FOR%20github&ved=2ahUKEwi6v7vGlY6JAxUfpycCHWw-Af8QxiAoAHoECAAQIg)" />
 </p>
 
 <!-- Animated Typing Effect for a Professional Tagline -->
