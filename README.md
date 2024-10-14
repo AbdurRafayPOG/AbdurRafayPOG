@@ -11,7 +11,7 @@
 
 <!-- Animated Typing Effect for a Professional Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFEC&center=true&vCenter=true&width=600&lines=IT+Student+|+IT+Enthusiast;Data+Analytics+Learner+|+Always+Learning;Passionate+About+Technology+and+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFEC&center=true&vCenter=true&width=600&lines=IT+Student+|+IT+Enthusiast;Data+Analytics+Learner+|+Always+Learning;Tech+and+Problem-Solving+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -41,8 +41,8 @@ motto: "Always exploring new tech, one project at a time"
 
 ## 🌍 Current Focus & Interests
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=FFDD00&width=600&lines=Building+Skills+in+IT+and+Data+Analytics;Exploring+New+Technologies;Aspiring+to+Become+a+Data+Analytics+Specialist" alt="Current Focus Animation" /> </p>
-🌱 Currently learning SQL, Data Visualization with Tableau, and Data Structures.
-💻 Building expertise in data analytics and cloud computing.
+- 🌱 Currently learning **SQL**, **Data Visualization** with **Tableau**, and **Data Structures**.
+- 💻 Building expertise in **data analytics**.
 🔭 Working on projects that enhance problem-solving skills in C++ and C#.
 
 ---
