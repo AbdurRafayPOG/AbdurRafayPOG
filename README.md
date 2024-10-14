@@ -20,13 +20,13 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Abdur Rafay Imran
-education_status: Currently pursuing BS in IT
-job_status: Seeking internship opportunities in IT & Data Analytics
-tech_focus: IT | Data Analytics | Programming
-tools: C++, C#, SQL, R, Ubuntu, Excel
-email: abdurrafayimran404@gmail.com
-motto: "Always exploring new tech, one project at a time"
+Name: Abdur Rafay Imran
+Education Status: Currently pursuing BS in IT
+Job Status: Seeking internship opportunities in IT & Data Analytics
+Tech Focus: IT | Data Analytics | Programming
+Tools: C++, C#, SQL, R, Ubuntu, Excel
+Email: abdurrafayimran404@gmail.com
+Motto: "Always exploring new tech, one project at a time"
 ```
 
 ---
