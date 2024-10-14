@@ -44,6 +44,7 @@ motto: "Always exploring new tech, one project at a time"
 
 ## 🌍 Current Focus & Interests
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=FFDD00&width=600&lines=Building+Skills+in+IT+and+Data+Analytics;Exploring+New+Technologies;Aspiring+to+Become+a+Data+Scientist" alt="Current Focus Animation" /> </p>
+
 - 🌱 Currently learning SQL, Data Visualization with Tableau, and Data Structures.
 
 - 💻 Building expertise in data analytics.
