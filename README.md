@@ -1,6 +1,6 @@
 <!-- Header Banner with Gradient Colors and Stylish Font -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4602f0,100:4602f0&height=160&section=header&text=Abdur%20Rafay%20Imran&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IT%20Undergraduate%20|%20Aspiring%20Data%20Scientist%20|%20Seeking%20Internship%20Opportunities&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a02f0,100:1a02f0&height=160&section=header&text=Abdur%20Rafay%20Imran&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IT%20Undergraduate%20|%20Aspiring%20Data%20Scientist%20|%20Seeking%20Internship%20Opportunities&descAlignY=60&descAlign=50" alt="Header" />
 </p>
 
 
