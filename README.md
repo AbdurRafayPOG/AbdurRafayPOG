@@ -22,7 +22,7 @@
 ```yaml
 Name: Abdur Rafay Imran
 Education Status: Currently pursuing BS in IT
-Job Status: Seeking internship opportunities in IT & Cybersecurity
+Job Status: Seeking internship opportunities in Cybersecurity
 Tech Focus: IT | Cybersecurity | Programming
 Tools: C++, C#, SQL, R, Ubuntu, Excel
 Email: abdurrafayimran404@gmail.com
