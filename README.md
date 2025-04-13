@@ -1,6 +1,6 @@
 <!-- Header Banner with Gradient Colors and Stylish Font -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:703BE7,100:703BE7&height=160&section=header&text=Abdur%20Rafay%20Imran&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IT%20Undergraduate%20|%20Aspiring%20Data%20Scientist%20|%20Seeking%20Internship%20Opportunities&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:703BE7,100:703BE7&height=160&section=header&text=Abdur%20Rafay%20Imran&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IT%20Undergraduate%20|%20Aspiring%20Cybersecurity%20|%20Seeking%20Internship%20Opportunities&descAlignY=60&descAlign=50" alt="Header" />
 </p>
 
 <!-- Animated Coding GIFs -->
@@ -11,7 +11,7 @@
 
 <!-- Animated Typing Effect for a Professional Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFEC&center=true&vCenter=true&width=600&lines=IT+Student+|+IT+Enthusiast;Data+Analytics+Learner+|+Always+Learning;Tech+and+Problem-Solving+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFEC&center=true&vCenter=true&width=600&lines=IT+Student+|+IT+Enthusiast;Cybersecurity+Learner+|+Always+Learning;Tech+and+Problem-Solving+Enthusiast" alt="Typing SVG" />
 </p>
 
 
@@ -22,8 +22,8 @@
 ```yaml
 Name: Abdur Rafay Imran
 Education Status: Currently pursuing BS in IT
-Job Status: Seeking internship opportunities in IT & Data Analytics
-Tech Focus: IT | Data Analytics | Programming
+Job Status: Seeking internship opportunities in IT & Cybersecurity
+Tech Focus: IT | Cybersecurity | Programming
 Tools: C++, C#, SQL, R, Ubuntu, Excel
 Email: abdurrafayimran404@gmail.com
 Motto: "Always exploring new tech, one project at a time"
@@ -66,4 +66,3 @@ Motto: "Always exploring new tech, one project at a time"
 <!-- GitHub Snake Animation --> <div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /> </div>
 
 <!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer" alt="Footer" /> </p>
-
