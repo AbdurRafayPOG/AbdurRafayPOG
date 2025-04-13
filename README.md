@@ -44,7 +44,7 @@ Motto: "Always exploring new tech, one project at a time"
 ---
 
 ## 🌍 Current Focus & Interests
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=FFDD00&width=600&lines=Building+Skills+in+Cybersecurity+and+Cybersecurity Consultant;Exploring+New+Technologies;Aspiring+to+Become+a+Cybersecurity" alt="Current Focus Animation" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=FFDD00&width=600&lines=Building+Skills+in+Cybersecurity;Exploring+New+Technologies;Aspiring+to+Become+a+Cybersecurity+Consultant" alt="Current Focus Animation" /> </p>
 
 - 🌱 Currently learning SQL, SQL developer, OracleXE.
 
